@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/kaique.dognani/Documents/Platformio_Mbed/mbed-rtos-blink-baremetal/include",
-                "C:/Users/kaique.dognani/Documents/Platformio_Mbed/mbed-rtos-blink-baremetal/src",
+                "C:/Users/kaique.dognani/Documents/Platformio_Mbed/Mbed-OS6-Baremetal-Template/include",
+                "C:/Users/kaique.dognani/Documents/Platformio_Mbed/Mbed-OS6-Baremetal-Template/src",
                 "C:/Users/kaique.dognani/.platformio/packages/framework-mbed",
-                "C:/Users/kaique.dognani/Documents/Platformio_Mbed/mbed-rtos-blink-baremetal/.pio/build/nucleo_f103rb",
+                "C:/Users/kaique.dognani/Documents/Platformio_Mbed/Mbed-OS6-Baremetal-Template/.pio/build/nucleo_f103rb",
                 "C:/Users/kaique.dognani/.platformio/packages/framework-mbed/cmsis",
                 "C:/Users/kaique.dognani/.platformio/packages/framework-mbed/cmsis/CMSIS_5",
                 "C:/Users/kaique.dognani/.platformio/packages/framework-mbed/cmsis/CMSIS_5/CMSIS",
@@ -127,10 +127,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/kaique.dognani/Documents/Platformio_Mbed/mbed-rtos-blink-baremetal/include",
-                    "C:/Users/kaique.dognani/Documents/Platformio_Mbed/mbed-rtos-blink-baremetal/src",
+                    "C:/Users/kaique.dognani/Documents/Platformio_Mbed/Mbed-OS6-Baremetal-Template/include",
+                    "C:/Users/kaique.dognani/Documents/Platformio_Mbed/Mbed-OS6-Baremetal-Template/src",
                     "C:/Users/kaique.dognani/.platformio/packages/framework-mbed",
-                    "C:/Users/kaique.dognani/Documents/Platformio_Mbed/mbed-rtos-blink-baremetal/.pio/build/nucleo_f103rb",
+                    "C:/Users/kaique.dognani/Documents/Platformio_Mbed/Mbed-OS6-Baremetal-Template/.pio/build/nucleo_f103rb",
                     "C:/Users/kaique.dognani/.platformio/packages/framework-mbed/cmsis",
                     "C:/Users/kaique.dognani/.platformio/packages/framework-mbed/cmsis/CMSIS_5",
                     "C:/Users/kaique.dognani/.platformio/packages/framework-mbed/cmsis/CMSIS_5/CMSIS",
@@ -301,7 +301,7 @@
             "cStandard": "gnu11",
             "cppStandard": "gnu++14",
             "forcedInclude": [
-                "C:/Users/kaique.dognani/Documents/Platformio_Mbed/mbed-rtos-blink-baremetal/.pio/build/nucleo_f103rb/mbed_config.h",
+                "C:/Users/kaique.dognani/Documents/Platformio_Mbed/Mbed-OS6-Baremetal-Template/.pio/build/nucleo_f103rb/mbed_config.h",
                 ""
             ],
             "compilerPath": "C:/Users/kaique.dognani/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
